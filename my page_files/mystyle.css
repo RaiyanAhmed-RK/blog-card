@@ -1,5 +1,6 @@
 *{
   margin: 0;
+  transition: 1s;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -85,11 +86,6 @@ body{
   line-height: 1.5em;
   text-align: justify;
   font-weight: 500;
-  height: 100px;
-  width: 300px;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
 }
 .content button{
   padding: 15px 20px;
